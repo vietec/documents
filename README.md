@@ -35,6 +35,11 @@
 
   * **Code:** 200 <br />
     **Content:** `{"status":false,"messages":["Không thành công"]}`
+    
+    HOẶC
+
+  * **Code:** 200 <br />
+    **Content:** `{"status":false,"messages":["Tài khoản  đã kích hoạt"]}`
 
 ------------------------
 <br/>
