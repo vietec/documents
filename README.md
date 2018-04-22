@@ -15,11 +15,11 @@
 
    **Bắt buộc:**
  
-   `project=[integer]  Giá trị: 2. Kế hoạch giáo dục cũ, 3. Quản lý mầm non`
-   `unit=[string]  Mã đơn vị của tài khoản kích hoạt`
-   `limit=[integer]  Số ngày hoạt động. Giá trị: 3, 7, 30, 90, 180, 365 ngày`
-   `user=[string]  Tài khoản muốn được kích hoạt`
-   `admin=[string]  Tài khoản quản trị thực hiện thao tác tạo tài khoản - tài khoản đang đăng nhập`
+   `project=[integer]  Giá trị: 2. Kế hoạch giáo dục cũ, 3. Quản lý mầm non`<br/>
+   `unit=[string]  Mã đơn vị của tài khoản kích hoạt`<br/>
+   `limit=[integer]  Số ngày hoạt động. Giá trị: 3, 7, 30, 90, 180, 365 ngày`<br/>
+   `user=[string]  Tài khoản muốn được kích hoạt`<br/>
+   `admin=[string]  Tài khoản quản trị thực hiện thao tác tạo tài khoản - tài khoản đang đăng nhập`<br/>
 
 * **Thành công:**
 
@@ -58,8 +58,8 @@
 
    **Bắt buộc:**
  
-   `project=[integer]  Giá trị: 2. Kế hoạch giáo dục cũ, 3. Quản lý mầm non`
-   `username=[string]  Tài khoản muốn kiểm tra`
+   `project=[integer]  Giá trị: 2. Kế hoạch giáo dục cũ, 3. Quản lý mầm non`<br/>
+   `username=[string]  Tài khoản muốn kiểm tra`<br/>
 
 * **Thành công:**
 
